@@ -13,7 +13,7 @@ import {
     nodejs,
     mongodb,
     git,
-    figma,
+    linux,
     docker,
     IBM,
     ICIP,
@@ -101,8 +101,8 @@ const technologies = [{
         icon: git,
     },
     {
-        name: "figma",
-        icon: figma,
+        name: "linux",
+        icon: linux,
     },
     {
         name: "docker",

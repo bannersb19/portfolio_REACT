@@ -26,7 +26,7 @@ const Navbar = () => {
           }}
         > 
         <div className="flex">
-          <img src="/src/assets/s-logo.png" alt="logo" className="w-9 h-9 object-contain"></img>
+          <img src='/src/assets/slogo.svg' alt="logo" className="w-9 h-9 object-contain"></img>
           <p className="text-white text-[18px] pt-2 font-bold cursor-pointer flex">    &nbsp;Sujash &nbsp;<span className="sm:block hidden">| Pen-Tester</span>
           </p>
           </div>

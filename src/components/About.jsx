@@ -52,7 +52,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-       A final year student who is enrolled in the Computer Science and Information Technology programme. Dedicated to Cyber Security and Web Development, having two or more years of expertise, and specialising in web development, algorithms, penetration testing and docker containerization. Searching mostly for Cyber Security Analyst, Pen-Tester and Web Developement positions.
+       A final year student who is enrolled in the Computer Science and Information Technology programme. Dedicated to Cyber Security and Web Development, having two or more years of expertise, specialising in web development, algorithms, penetration testing and docker containerization. Searching mostly for Cyber Security Analyst, Pen-Tester and Web Developement positions.
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>

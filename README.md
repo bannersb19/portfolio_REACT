@@ -1,5 +1,4 @@
-# LIVE LINK :
-https://sujash.netlify.app/
+# LIVE LINK : https://sujash.netlify.app/
 
 # PORTFOLIO WEBSITE : 
 1) This project is created using the [vite](https://vitejs.dev/) development server.
